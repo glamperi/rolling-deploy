@@ -1,0 +1,1 @@
+This is a Rolling Deploy example taken from Veer's AB Deployment, just a PHP app with a version page'
